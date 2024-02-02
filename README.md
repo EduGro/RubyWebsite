@@ -5,15 +5,18 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version:
+ruby-3.2.3
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database creation:
+Not Implemented yet
 
-* Database initialization
+* Database initialization:
+Not implemented yet
 
 * How to run the test suite
 
@@ -22,3 +25,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Since this is going to be done in heliohost I'm going to be using [this](https://wiki.helionet.org/tutorials/ror) guide. 
